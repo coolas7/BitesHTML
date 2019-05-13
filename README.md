@@ -1,2 +1,2 @@
 # BitesHTML
-Bites site in HTML
+Bites svetaine HTML - pirmas blynas.
